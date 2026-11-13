@@ -10,6 +10,4 @@ Mark4D includes or depends on the following third-party code. Each component rem
 | [simple-knn](https://gitlab.inria.fr/bkerbl/simple-knn) | `submodules/simple-knn` | Gaussian-Splatting License (Inria / MPII), non-commercial research and evaluation only |
 | [HexPlane](https://github.com/Caoang327/HexPlane) / [K-Planes](https://github.com/sarafridov/K-Planes) | `scene/hexplane.py` | see the original repositories |
 | [lpipsPyTorch](https://github.com/S-aiueo32/lpips-pytorch) | `lpipsPyTorch/` | see the original repository |
-| [X-CLIP](https://huggingface.co/microsoft/xclip-base-patch32) (via Hugging Face Transformers) | downloaded at run time, not redistributed | MIT |
-
-Mark4D does not redistribute any pretrained model weights or datasets.
+| [X-CLIP](https://huggingface.co/microsoft/xclip-base-patch32) (via Hugging Face Transformers) | downloaded at run time | MIT |

@@ -58,8 +58,7 @@ Mark4D has two stages:
 This repository contains the full training and evaluation code of Mark4D. It is built on top of the
 official [4DGaussians](https://github.com/hustvl/4DGaussians) code base.
 
-- **What is not released:** pretrained 4DGS models, decoders, watermark offsets and datasets. All of them can be produced with the scripts below.
-- **Hyperparameters:** no training hyperparameters are preset. Pass them on the command line ([Hyperparameters](#hyperparameters)).
+No training hyperparameters are preset. Pass them on the command line ([Hyperparameters](#hyperparameters)).
 
 ## Repository structure
 

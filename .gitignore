@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.vscode
+build/
+*.egg-info/
+dist/
+tensorboard_3d
+screenshots
+# data, pretrained models and watermark outputs are never committed
+data/
+output/
+checkpoints/
+*.pth
+*.pkl
+*.ply
